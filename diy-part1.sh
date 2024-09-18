@@ -1,18 +1,18 @@
 #!/bin/bash
 #
-# https://github.com/P3TERX/Actions-OpenWrt
-# File name: diy-part1.sh
-# Description: OpenWrt DIY script part 1 (Before Update feeds)
+#https://吉特布网/P3TERX/行动
+#文件名:
+#描述:开放WERTDiY脚本第1部分(更新前)
 #
 # Copyright (c) 2019-2024 P3TERX <https://p3terx.com>
 #
-# This is free software, licensed under the MIT License.
-# See /LICENSE for more information.
+#这是免费软件,根据麻省理工学院的许可证。
+#更多信息请参阅/许可。
 #
 
-# Uncomment a feed source
-#sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
+#取消评论一个提要源
+ 种子 - 我   's/^#\(.*helloworld\)/\1/' 原料。
 
-# Add a feed source
-echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-#echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#添加一个提要源
+#回声公司-GIT公司-----------------------------------------------------------------------------------
+回声 ……………………………………………………………… 供应品
